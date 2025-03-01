@@ -162,7 +162,7 @@ p{
   margin: auto;
   text-align: center;
 }
-div.gallery {
+div.photos {
   margin: 15px;
   border: 1px solid #ccc;
   float: left;
@@ -173,11 +173,11 @@ div.gallery {
   color: #ffffff;
 }
 
-div.gallery:hover {
+div.photos:hover {
   border: 1px solid #777;
 }
 
-div.gallery img {
+div.photos img {
   width: 100%;
   height: auto;
 }
